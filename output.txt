@@ -1,0 +1,3 @@
+ID: 3, Name: Машинка, Frequency: 7
+ID: 1, Name: Тедди, Frequency: 5
+ID: 2, Name: Кукла, Frequency: 3
